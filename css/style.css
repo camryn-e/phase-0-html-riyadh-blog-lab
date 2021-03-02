@@ -9,8 +9,9 @@ body {
   background: url(../images/backgrounds/architecture.jpg) center no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  font-family: Helvetica, Arial, sans-serif;
-  font-size: 100%;
+  font-family: "Comic Sans MS";
+  font-size: 50%;
+
 }
 
 .wrapper {
@@ -21,11 +22,11 @@ body {
 
 #content {
   padding: 20px;
-  background: rgba(255,255,255,.85);
+  background-image: linear-gradient(to bottom right, rgba(139,255,255,0.85), white);
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
+  font-family: 'Papyrus', serif;
   color: #fff;
 }
 
@@ -40,7 +41,7 @@ h2 {
 }
 
 h3 {
-  font-family: 'Gabriela', serif;
+  font-family: "Papyrus";
   font-size: 1.5em;
   margin-top: .5em;
 }
